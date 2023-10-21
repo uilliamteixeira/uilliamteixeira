@@ -13,4 +13,3 @@ for i in range(3):
         print(f'Média {media} Reprovado ')    
     elif media >= 7:
         print(f'Média {media} Aprovado! ')
-       
