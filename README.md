@@ -1,8 +1,6 @@
-- 👋 Hello, I'm @uilliamteixeira
-- 👀 I'm interested in new learning
-- 🌱 I am currently learning Data Science
-- 📫 How to contact me uilliam_u2@hotmail.com or @uilliamteixeira on Instagram.
-<!---
-uilliamteixeira/uilliamteixeira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Olá! Sou Uilliam Teixeira
+
+💻 Iniciei minha carreira como Suporte Técnico N1/N2, atuando com atendimento remoto e presencial.  
+🚀 Atualmente estudando Python e explorando automações voltadas para DevOps e infraestrutura.  
+📚 Em breve, projetos práticos com scripts, monitoramento e integração de sistemas.  
+📫 Contato: uilliam_u2@hotmail.com | Instagram: @uilliamteixeira | LinkedIn: [in/uilliamteixeira](https://www.linkedin.com/in/uilliamteixeira)
