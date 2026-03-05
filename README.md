@@ -1,4 +1,4 @@
-👋 Olá! Sou William Teixeira
+👋 Olá! Sou Uilliam Teixeira
 
 💻 Profissional de Tecnologia com experiência em Suporte Técnico N1/N2 (atendimento remoto e presencial).
 
