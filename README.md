@@ -86,4 +86,4 @@ Utilizo ferramentas de inteligência artificial como apoio à implementação, m
 
 ## 📫 Contato
 
-**LinkedIn:** linkedin.com/in/uilliamteixeiravvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+**LinkedIn:** linkedin.com/in/uilliamteixeira
