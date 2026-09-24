@@ -26,12 +26,6 @@ Plataforma pessoal desenvolvida para integrar operações da **Tecnoze 3D**, con
 - ⚙️ Automações
 - 📈 Métricas e feedback
 
-<img width="1918" height="888" alt="image" src="https://github.com/user-attachments/assets/48bb584b-5eb0-4814-b086-3daa3289046b" />
-
-Tivemos uma pequena atualização no dashboard atual confesso que ficou muito melhor! 
-
-<img width="1915" height="894" alt="Captura de tela 2026-09-23 214900" src="https://github.com/user-attachments/assets/1473815f-fe1c-4c81-b928-7466fca02f19" />
-
 ---
 
 ## 🔄 Visão do ecossistema
