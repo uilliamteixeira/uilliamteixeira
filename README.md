@@ -2,7 +2,7 @@
 
 Analista de Sistemas ERP · Application Support N2 · Automação com IA
 
-Mais de 10 anos com implantação e sustentação de ERP e PDV em varejo, somando 180+ Go-Lives, com SQL Server, Firebird e processos fiscais (NF-e, NFC-e e TEF). Uso este GitHub para documentar projetos pessoais de automação, integrações e inteligência artificial, e estou cursando um MBA em IA.
+Mais de 10 anos com implantação e sustentação de ERP e PDV em varejo, somando 180+ Go-Lives, com SQL Server, Firebird e processos fiscais (NF-e, NFC-e e TEF). Aqui documento meus projetos pessoais de automação e integrações, onde aplico o que aprendo no MBA em IA que estou cursando.
 
 ---
 
