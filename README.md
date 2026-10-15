@@ -2,49 +2,49 @@
 
 Analista de Sistemas ERP · Application Support N2 · Automação com IA
 
-Mais de 10 anos com implantação e sustentação de ERP e PDV em varejo, somando 180+ Go-Lives, com SQL Server, Firebird e processos fiscais (NF-e, NFC-e e TEF). Aqui documento meus projetos pessoais de automação e integrações, onde aplico o que aprendo no MBA em IA que estou cursando.
+Mais de 10 anos com implantação e sustentação de ERP e PDV em varejo, somando 180+ Go-Lives, com SQL Server, Firebird e processos fiscais (NF-e, NFC-e e TEF). Uso inteligência artificial no dia a dia para construir automações, analisar problemas e documentar, e estou cursando um MBA em IA. Este GitHub reúne os projetos pessoais que faço assim.
 
 ---
 
-## Projetos
+## Como trabalho com IA
+
+Construo meus projetos com o Claude como parceiro de desenvolvimento. Eu levanto o problema, defino os requisitos e as regras de negócio, peço o código à IA, testo e valido o resultado. Minha base é ERP e suporte, não desenvolvimento de software. A IA é o que me permite construir e manter essas automações.
+
+Fluxo: problema, pesquisa, especificação, código gerado com IA, testes, validação, documentação e iteração.
+
+---
+
+## Projetos feitos com IA
 
 ### Plataforma de automação e inteligência de mercado para e-commerce
 
-Sistema que integra dados de marketplace, cálculo de custo e margem, geração de anúncios com IA e métricas de resultado, pensado para uma operação pequena. O código de produção é privado. O repositório mostra a arquitetura, os fluxos e as decisões de projeto.
+Sistema que reúne dados de marketplace, calcula custo e margem, gera anúncios com IA e mostra métricas, para uma operação pequena. O código de produção é privado. O repositório mostra a arquitetura, os fluxos e as decisões de projeto.
 
-- Stack: Next.js, Node.js, Python, Supabase (PostgreSQL), n8n, Docker, Linux
-- 9 motores de automação, 18 tarefas agendadas em VPS e 115 testes automatizados
-- Integração com a Shopee Open API v2
+- IA dentro do sistema: leitura de imagens e geração de texto de anúncio (Gemini, com Claude de reserva). Uma validação recusa o texto se aparecer número, marca ou promessa que não está no cadastro do produto.
+- Ferramentas: n8n, Supabase, Docker e a Shopee Open API.
+- Construído com apoio do Claude. Eu defini as regras de negócio, validei os resultados e mantenho o sistema.
 
 Repositório: [uilliamteixeira/tecnoze3d](https://github.com/uilliamteixeira/tecnoze3d)
 
 ### Quanto Investir: simulador de investimentos
 
-Aplicativo Android em Flutter que calcula juros compostos, aplica o imposto de renda regressivo a cada aporte e compara produtos de renda fixa já descontados os impostos. Também estima a renda passiva com fundos imobiliários. As taxas vêm da API do Banco Central.
+Aplicativo Android em Flutter que calcula juros compostos, aplica o imposto de renda regressivo a cada aporte e compara produtos de renda fixa já descontados os impostos. Também estima a renda passiva com fundos imobiliários, usando dados abertos da CVM e da B3. As taxas vêm da API do Banco Central.
 
-O código do app é privado. O repositório público tem a documentação e o pipeline de dados abertos (CVM e B3), que roda em GitHub Actions. O app tem 23 testes automatizados.
+Construído com apoio do Claude. Eu defini as regras financeiras e validei com casos de cálculo conferidos manualmente. O código do app é privado. O repositório público tem a documentação e o pipeline de dados abertos, que roda em GitHub Actions.
 
 Repositório: [uilliamteixeira/investment-simulator-app](https://github.com/uilliamteixeira/investment-simulator-app)
 
 ---
 
-## Como desenvolvo
-
-Problema, pesquisa, especificação, desenvolvimento assistido por IA, testes, validação, documentação e iteração.
-
-A IA apoia a implementação. Eu defino o problema, os requisitos e a arquitetura, e valido os resultados.
-
----
-
 ## Em estudo
 
-MBA em Inteligência Artificial, com fundamentos de IA, probabilidade e tomada de decisão sob incerteza, e aprendizagem de máquinas (supervisionada, não supervisionada e por reforço).
+MBA em Inteligência Artificial: fundamentos de IA, probabilidade e tomada de decisão sob incerteza, e aprendizagem de máquinas (supervisionada, não supervisionada e por reforço). Tento levar esses conceitos para os projetos e para o trabalho de suporte e implantação.
 
 ---
 
-## Tecnologias usadas nos projetos
+## Ferramentas que uso
 
-SQL Server, Firebird, Linux, Python, Node.js, Docker, Git, Flutter, Supabase, n8n, Next.js e APIs REST.
+IA: Claude e Gemini. Automação e dados: n8n, Supabase, GitHub Actions. Plataformas: Docker, Linux e Flutter. No trabalho com ERP: SQL Server e Firebird.
 
 ---
 
